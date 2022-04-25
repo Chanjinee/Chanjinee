@@ -1,6 +1,4 @@
-<h1> Hi,There </h1>
-
-<h2> Profile </h2>
+<h3> Profile </h3>
 <p>
   <a href="https://www.instagram.com/bchanjin_98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bchanjin_98/"/></a>&nbsp
   <a href="mailto:anback14@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=anback14@gmail.com"/></a>&nbsp
