@@ -37,7 +37,7 @@
 | :------: | :------: | :------: | :------: | :------: | :------: |
 | [DACON] </br> 한국토지주택공사 | 주차수요 예측 </br> AI 경진대회 | 유형별 임대주택 설계 시 </br> 단지 내 적정 주차수요 예측 | 2021.06.10 ~ 2021.07.30 | 49위(10%) | [링크](https://github.com/Chanjinee/Contest/tree/main/Dacon_Parking-master) |
 | [2021 빅콘테스트] </br> 한국지능정보사회진흥원 | 데이터분석분야 </br> 챔피언리그 스포츠 | 「프로야구 배럴(Barrel)」 을 통한 </br> 타자 성적 예측 | 2021.08.03 ~ 2021.11.30 | 본선 </br> 진출 | [링크](https://github.com/Chanjinee/Contest/tree/main/Bigcontest_baseball-2021-master) |
-| [학회산학연계공모전] </br> 플랫포머스(주) & 빅데이터 분석학회 DnA| 매니저 매칭 </br> 성공여부 예측 | 고객정보, 매니저정보, 서비스 요구사항 데이터를 통한 매니저 매칭 성공여부 예측 | 2021.10.29 ~ 2021.11.25 | 3위 | [링크](https://github.com/Chanjinee/Contest/tree/main/KMU_DnA-2021-daplatformers-master) |
+| [학회산학연계공모전] </br> 플랫포머스(주) & 빅데이터 분석학회 DnA| 매니저 매칭 </br> 성공여부 예측 | 고객정보, 매니저정보, 서비스 요구사항 </br> 데이터를 통한 매니저 매칭 성공여부 예측 | 2021.10.29 ~ 2021.11.25 | 3위 | [링크](https://github.com/Chanjinee/Contest/tree/main/KMU_DnA-2021-daplatformers-master) |
 | [DACON] </br> 국토도시 빅데이터 윈터스쿨, 국토연구원| 물류 유통량예측 | 제주시 내 택배 운송 데이터를 </br> 이용하여 운송량 예측 AI 개발 | 2021.12.06 ~ 2021.12.20 | - | [링크](https://github.com/Chanjinee/Contest/tree/main/Dacon_logistics) |
 
 ## Project
