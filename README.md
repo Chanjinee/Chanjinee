@@ -6,8 +6,6 @@
   <a href="mailto:anback14@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=anback14@gmail.com"/></a>&nbsp
   </p>
 
-<br>
-
 <h3 Tech Stack </h3>
 
 <p> Techs </p>
