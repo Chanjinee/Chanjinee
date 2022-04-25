@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp 
 </p>
 
-  <br>
-  
 <p> I've used </p>
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
@@ -32,8 +30,15 @@
 </p>
 
 <br>
-# Career
 
+# Career
 | 졸업년월 | 학교 | 전공 | 전공계열 | 졸업구분 | 학위구분 |
 | :------: | :------: | :------: | :------: | :------: | :------: |
 | 2023.02 | 국민대학교 | 경영학부 | AI빅데이터융합경영학과 | 졸업예정 | 학사 |
+
+# Competition
+
+| 주관 | 대회명 | 목적 | 기간 | 성적 | 링크 |
+| :------: | :------: | :------: | :------: | :------: | :------: |
+| [DACON] 한국토지주택공사 | 주차수요 예측 AI 경진대회 | 유형별 임대주택 설계 시 단지 내 적정 주차수요 예측 | 2021.06.10 ~ 2021.07.30 | 49위(10%) | [링크]() |
+| [2021 빅콘테스트] 한국지능정보사회진흥원 | 데이터분석분야 챔피언리그 스포츠테크 | 「프로야구 배럴(Barrel)」 을 통한 타자 성적 예측 | 2021.08.03 ~ 2021.11.30 | 본선진출 | [링크]() |
