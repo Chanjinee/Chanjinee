@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
 </p>
-
+---
 ## Career
 | 졸업년월 | 학교 | 전공 | 전공계열 | 졸업구분 | 학위구분 |
 | :------: | :------: | :------: | :------: | :------: | :------: |
