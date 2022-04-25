@@ -1,5 +1,5 @@
-<h2 Profile </h2>
-
+<h2 I'm </h2>
+<p> Profile </p>
 <p>
   <a href="https://www.instagram.com/bchanjin_98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bchanjin_98/"/></a>&nbsp
   <a href="mailto:anback14@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=anback14@gmail.com"/></a>
