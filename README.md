@@ -9,7 +9,6 @@
 <h3 Tech Stack </h3>
 
 <p> Techs </p>
-
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp 
@@ -18,9 +17,10 @@
   <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp 
 </p>
-  <br>
-<p> I've used </p>
 
+  <br>
+  
+<p> I've used </p>
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp 
@@ -30,3 +30,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
 </p>
+
+<br>
+# Career
+| 졸업년월 | 학교 | 전공 | 전공계열 | 졸업구분 | 학위구분 |
+| :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
+| 2023.02 | 국민대학교 | 경영학부 | AI빅데이터융합경영학과 | 졸업예정 | 학사 |
