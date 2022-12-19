@@ -40,7 +40,7 @@
 | [학회산학연계공모전] </br> 플랫포머스(주) & </br> 빅데이터 분석학회 DnA| 매니저 매칭 </br> 성공여부예측 | 고객정보, 매니저정보, 서비스 요구사항 </br> 데이터를 통한 매니저 매칭 성공여부 예측 | 2021.10.29 ~ 2021.11.25 | 우수상</br>( 3위 ) | [링크](https://github.com/Chanjinee/Contest/tree/main/KMU_DnA-2021-daplatformers-master) |
 | [DACON] </br> 국토도시 빅데이터 </br> 윈터스쿨, 국토연구원| 물류 </br> 유통량예측 | 제주시 내 택배 운송 데이터를 </br> 이용하여 운송량 예측 AI 개발 | 2021.12.06 ~ 2021.12.20 | 8위 | [링크](https://github.com/Chanjinee/Contest/tree/main/Dacon_logistics) |
 | [롯데멤버스]| 제7회 롯데멤버스 </br> 빅데이터 경진대회 | 고객구매 데이터에 기반한 </br> 예측 모델 개발 및 </br> 개인화 마케팅 전략 제안 | 2022.06.02 ~ 2022.09.05 | 장려상</br>( 6위 )  | [링크](https://github.com/Chanjinee/Contest/tree/main/Lotte-Members-Competition) |
-| [2022 빅콘테스트]</br> Finda| 데이터 </br> 분석분야 </br> 퓨쳐스부문 | 앱사용성 데이터를 통한 </br> 대출신청 예측분석 | 2022.08.30 ~ 2022.12.22 | -  | [링크] ([https://github.com/Chanjinee/Contest/tree/main/Lotte-Members-Competition](https://github.com/Chanjinee/BigContest2022)) |
+| [2022 빅콘테스트]</br> Finda| 데이터 </br> 분석분야 </br> 퓨쳐스부문 | 앱사용성 데이터를 통한 </br> 대출신청 예측분석 | 2022.08.30 ~ 2022.12.22 | -  | [링크](https://github.com/Chanjinee/BigContest2022) |
 
 
 ## Project
@@ -50,6 +50,8 @@
 | [교내] 공간빅데이터분석 | 생존 맛집 분석 | 마포구 서교동 상권 10년간 생존요인 파악 | [링크](https://github.com/Chanjinee/KMU_Lectures/tree/master/%EA%B3%B5%EA%B0%84%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D) |
 | [교내] D&A conference | 너의 손글씨가 보여 | 개인의 손글씨를 학습시켜 폰트화 | [링크]() |
 | [교내] 텍스트데이터분석 | 코로나숙박업소 | 오늘의 집 포스팅 데이터 분석을 통한 </br> 코로나 이후 숙박업소 방향성 제시 | [링크](https://github.com/Chanjinee/Project/tree/main/Text%20mining) |
+| [교내] 캡스톤디자인I | 추천시스템 | Recommender System Using Wide & Deep </br> Technique and Side Information | [링크](https://github.com/Chanjinee/Recommender-System/tree/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8I) |
+
 
 ## Certificate
 | 시험명 | 취득일 | 주관 |
