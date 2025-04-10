@@ -31,8 +31,8 @@
 | :------: | :------: | :------: | :------: | :------: | :------: |
 | 2023.08 | 국민대학교 | 경영학부 | AI빅데이터융합경영학과 | 졸업 | 학사 |
 | 2023.08 | 국민대학교 | 연계융합 | 데이터사이언스융합전공 | 졸업 | 학사 |
-| 2025.04 | Parket Inc. | Mixsoon | Data Analyist | - | - |
 | 2023.04 - 2025.03 | Craver Corp. | SKIN1004 Growth | Data Manager | - | - |
+| 2025.04 - 현재 | Parket Inc. | Mixsoon | Data Analyist | - | - |
 
 ## Competition
 
